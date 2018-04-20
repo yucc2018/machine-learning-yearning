@@ -6,7 +6,7 @@
 * [3. 预备知识和表示符号](chapter3.md)
 * [4. 规模推动机器学习进度](chapter4.md)
 * [5. 你的开发集和测试集](chapter5.md)
-* [你的开发集和测试集应当来自相同的分布](chapter6.md)
+* [6. 你的开发集和测试集应当来自相同的分布](chapter6.md)
 * [How large do the dev/test sets need to be?](chapter7.md)
 * [Establish a single-number evaluation metric for your team to optimize](chapter8.md)
 * [Optimizing and satisficing metrics](chapter9.md)
