@@ -1,7 +1,7 @@
 # Summary
 
 * [简介](README.md)
-* [1. 为什么是机器学习策略](README.md)
+* [简介](README.md)
 * [1. 为什么是机器学习策略](chapter1.md)
 * [2. 如何使用本书来帮助你的团队](chapter2.md)
 * [3. 预备知识和表示符号](chapter3.md)
