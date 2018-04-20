@@ -1,11 +1,11 @@
 # Summary
 
-* [Introduction](README.md)
-* [Why Machine Learning Strategy](chapter1.md)
-* [How to use this book to help your team](chapter2.md)
-* [Prerequisites and Notation](chapter3.md)
-* [Scale drives machine learning progress](chapter4.md)
-* [Your development and test sets](chapter5.md)
+* [简介](README.md)
+* [1.为什么是机器学习策略](chapter1.md)
+* [2.如何使用本书来帮助你的团队](chapter2.md)
+* [3.预备知识和表示符号](chapter3.md)
+* [4.规模推动机器学习进度](chapter4.md)
+* [5.你的开发集和测试集](chapter5.md)
 * [Your dev and test sets should come from the same distribution](chapter6.md)
 * [How large do the dev/test sets need to be?](chapter7.md)
 * [Establish a single-number evaluation metric for your team to optimize](chapter8.md)
