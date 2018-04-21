@@ -1,11 +1,18 @@
 # machine-learning-yearning
 Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng,最新版中文翻译。
 
-官网：http://www.mlyearning.org/
+本内容是Andrew NG的 My Machine Learning Yearning的翻译，会持续更新。
 
-Andrew NG的 My Machine Learning Yearning的翻译
+### 官网：
 
-欢迎来gitbook阅读：https://yuchenchen.gitbook.io/machine-learning-yearning/
+http://www.mlyearning.org/
+
+
+### gitbook阅读：
+
+gitbook阅读体验更好，欢迎来点击下面链接阅读：
+
+https://yuchenchen.gitbook.io/machine-learning-yearning/
 
 ### Andrew Ng关于本书介绍
 
