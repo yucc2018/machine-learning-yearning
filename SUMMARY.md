@@ -10,7 +10,7 @@
 * [7. 开发集和测试集需要多大？](chapter7.md)
 * [8. 为你的团队进行算法优化建立一个单数字估指标](chapter8.md)
 * [9. 优化和满足指标](chapter9.md)
-* [Having a dev set and metric speeds up iterations](chapter10.md)
+* [10. 使用开发集和评估指标来加速迭代](chapter10.md)
 * [When to change dev/test sets and metrics](chapter11.md)
 * [Takeaways: Setting up development and test sets](chapter12.md)
 * [Error analysis: Look at dev set examples to evaluate ideas](chapter13.md)
