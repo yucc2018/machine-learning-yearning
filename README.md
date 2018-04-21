@@ -1,5 +1,5 @@
 # machine-learning-yearning
-Translation of <<Machine Learning Yearning>>, Chinese Edition
+Translation of << Machine Learning Yearning >>, Chinese Edition
 
 官网：http://www.mlyearning.org/
 
