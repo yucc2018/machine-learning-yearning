@@ -14,6 +14,10 @@ gitbook阅读体验更好，欢迎来点击下面链接阅读翻译版：
 
 https://yuchenchen.gitbook.io/machine-learning-yearning/
 
+### 翻译版github地址：
+
+https://github.com/yucc2018/machine-learning-yearning
+
 ### Andrew Ng关于本书介绍
 
 **亲爱的朋友，你是如何组织一个人工智能（AI）项目的呢？**
