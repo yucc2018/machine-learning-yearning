@@ -1,5 +1,5 @@
 # machine-learning-yearning
-Translation of << Machine Learning Yearning >>, Chinese Edition
+Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng,最新版中文翻译。
 
 官网：http://www.mlyearning.org/
 
@@ -27,10 +27,21 @@ Andrew NG的 My Machine Learning Yearning的翻译
 
 [8. 为你的团队进行算法优化建立一个单数字估指标](chapter8.md)
 
+[9. 优化和满足指标](chapter9.md)
+
+[10. 使用开发集和评估指标来加速迭代](chapter10.md)
+
+[11. 何时更改开发集/测试集和评估指标](chapter11.md)
+
+[12. 小结：设置开发集和测试集](chapter12.md)
+
+[13. 快速构建你的第一个系统，然后迭代](chapter13.md)
+
+[14. 错误分析：查看开发集的例子来评估想法](chapter14.md)
 
 ### 英文原版：
 
-[1-14章下载](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY01.pdf)
+[1-14章下载（2018.04.18版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY01.pdf)
 
 ### 联系方式：
 

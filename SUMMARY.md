@@ -14,4 +14,4 @@
 * [11. 何时更改开发集/测试集和评估指标](chapter11.md)
 * [12. 小结：设置开发集和测试集](chapter12.md)
 * [13. 快速构建你的第一个系统，然后迭代](chapter13.md)
-* [Evaluate multiple ideas in parallel during error analysis](chapter14.md)
+* [14. 错误分析：查看开发集的例子来评估想法](chapter14.md)
