@@ -8,7 +8,7 @@ Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng,最新版�
 http://www.mlyearning.org/
 
 
-### 翻译版阅读链接：
+### 翻译版阅读地址：
 
 gitbook阅读体验更好，欢迎来点击下面链接阅读翻译版：
 
