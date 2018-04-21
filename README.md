@@ -30,7 +30,7 @@ Andrew NG的 My Machine Learning Yearning的翻译
 
 ### 英文原版：
 
-[1-14章](Draft of Machine Learning Yearning/Ng_MLY01.pdf)
+[1-14章下载](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY01.pdf)
 
 ### 联系方式：
 
