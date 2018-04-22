@@ -44,7 +44,7 @@ https://github.com/yucc2018/machine-learning-yearning
 
 ### 翻译章节：
 
-[1. 为什么是机器学习策略](chapter1.md)
+[1. 为什么是机器学习策略？](chapter1.md)
 
 [2. 如何使用本书来帮助你的团队](chapter2.md)
 
@@ -71,6 +71,52 @@ https://github.com/yucc2018/machine-learning-yearning
 [13. 快速构建你的第一个系统，然后迭代](chapter13.md)
 
 [14. 错误分析：查看开发集的例子来评估想法](chapter14.md)
+
+### 待Andrew更新后翻译章节：
+
+15. Evaluating multiple ideas in parallel during error analysis
+16. Cleaning up mislabeled dev and test set examples
+17. If you have a large dev set, split it into two subsets, only one of which you look at
+18. How big should the Eyeball and Blackbox dev sets be?
+19. Takeaways: Basic error analysis
+20. Bias and Variance: The two big sources of error
+21. Examples of Bias and Variance
+22. Comparing to the optimal error rate
+23. Addressing Bias and Variance
+24. Bias vs. Variance tradeoff
+25. Techniques for reducing avoidable bias
+26. Techniques for reducing Variance
+27. Error analysis on the training set
+28. Diagnosing bias and variance: Learning curves
+29. Plotting training error
+30. Interpreting learning curves: High bias
+31. Interpreting learning curves: Other cases
+32. Plotting learning curves
+33. Why we compare to human-level performance
+34. How to define human-level performance
+35. Surpassing human-level performance
+36. Why train and test on different distributions
+37. Whether to use all your data
+38. Whether to include inconsistent data
+39. Weighting data
+40. Generalizing from the training set to the dev set
+41. Addressing Bias, and Variance, and Data Mismatch
+42. Addressing data mismatch
+43. Artificial data synthesis
+44. The Optimization Verification test
+45. General form of Optimization Verification test
+46. Reinforcement learning example
+47. The rise of end-to-end learning
+48. More end-to-end learning examples
+49. Pros and cons of end-to-end learning
+50. Learned sub-components
+51. Directly learning rich outputs
+52. Error Analysis by Parts
+53. Beyond supervised learning: What’s next?
+54. Building a superhero team - Get your teammates to read this
+55. Big picture
+56. Credits
+
 
 ### 英文原版：
 
