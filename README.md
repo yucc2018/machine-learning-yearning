@@ -75,10 +75,15 @@ https://github.com/yucc2018/machine-learning-yearning
 ### 待Andrew更新后翻译章节：
 
 15. Evaluating multiple ideas in parallel during error analysis
+
 16. Cleaning up mislabeled dev and test set examples
+
 17. If you have a large dev set, split it into two subsets, only one of which you look at
+
 18. How big should the Eyeball and Blackbox dev sets be?
+
 19. Takeaways: Basic error analysis
+
 20. Bias and Variance: The two big sources of error
 21. Examples of Bias and Variance
 22. Comparing to the optimal error rate
