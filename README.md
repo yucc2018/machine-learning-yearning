@@ -81,9 +81,9 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [18. 眼球开发集和黑盒开发集应该多大？](chapter18.md)
 
-### 待Andrew更新后翻译章节：
+[19. 基本错误分析](chapter19.md)
 
-19. Takeaways: Basic error analysis
+### 待Andrew更新后翻译章节：
 
 20. Bias and Variance: The two big sources of error
 21. Examples of Bias and Variance
