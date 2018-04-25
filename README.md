@@ -75,11 +75,11 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [14. 错误分析：查看开发集的例子来评估想法](chapter14.md)
 
+[15. 在错误分析中并行评估多个想法](chapter15.md)
+
+[16. 清理贴错标签的开发集和测试集样例](chapter16.md)
+
 ### 待Andrew更新后翻译章节：
-
-15. Evaluating multiple ideas in parallel during error analysis
-
-16. Cleaning up mislabeled dev and test set examples
 
 17. If you have a large dev set, split it into two subsets, only one of which you look at
 
@@ -128,12 +128,15 @@ https://github.com/yucc2018/machine-learning-yearning
 
 ### 英文原版：
 
-原文原版手稿已经更新到19章，下载链接分别如下：
+原文原版手稿已经更新到19章，下载链接分别如下:
 
 [1-14章下载（2018.04.18版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY01.pdf)
 
 [15-19章下载（2018.04.25版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY02.pdf)
 
+我自己手动将上面两部分合并，成为1-19章的合集。想下载一个的直接点下面这个链接。
+
+[1-19章合并版（2018.04.25更新）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY_chapter1-19.pdf)
 
 ### 联系方式：
 
