@@ -2,7 +2,7 @@
 
 Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章翻译。
 
-Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章原版。
+Draft of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章原版。
 
 本内容是Andrew NG的 My Machine Learning Yearning的翻译，会持续更新。
 
@@ -79,9 +79,9 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [17. 如果你有一个很大的开发集，将它分成两个，而且你只看一个](chapter17.md)
 
-### 待Andrew更新后翻译章节：
+[18. 眼球开发集和黑盒开发集应该多大？](chapter18.md)
 
-18. How big should the Eyeball and Blackbox dev sets be?
+### 待Andrew更新后翻译章节：
 
 19. Takeaways: Basic error analysis
 
