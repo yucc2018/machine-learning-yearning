@@ -128,6 +128,8 @@ https://github.com/yucc2018/machine-learning-yearning
 
 ### 英文原版：
 
+原文原版手稿已经更新到19章，下载链接分别如下：
+
 [1-14章下载（2018.04.18版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY01.pdf)
 
 [15-19章下载（2018.04.25版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY02.pdf)
