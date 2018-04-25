@@ -9,7 +9,7 @@ http://www.mlyearning.org/
 
 ### Andrew Ng关于本书介绍
 
-**亲爱的朋友，你是如何组织一个人工智能（AI）项目的呢？**
+亲爱的朋友，你是如何组织一个人工智能（AI）项目的呢？
 
 人工智能（AI），机器学习（Machine Leaning）和深度学习（Deep learning）正在改变众多行业。我一直在写此书——*Machine Learning Yearning*，来教你如何构建机器学习项目。
 
