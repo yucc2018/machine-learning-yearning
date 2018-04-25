@@ -47,7 +47,7 @@ https://github.com/yucc2018/machine-learning-yearning
 
 ### 翻译章节：
 
-[1. 为什么是机器学习策略？](chapter1.md)
+[1. 为什么是机器学习策略？](https://github.com/xiaqunfeng/machine-learning-yearning/blob/master/chapter1.md)
 
 [2. 如何使用本书来帮助你的团队](chapter2.md)
 
