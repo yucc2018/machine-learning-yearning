@@ -49,7 +49,7 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [4. 规模推动机器学习进度](chapter4.md)
 
-[设置开发和测试集](part1.md)
+[下一部分：设置开发和测试集](part1.md)
 
 [5. 你的开发集和测试集](chapter5.md)
 
@@ -67,7 +67,7 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [12. 小结：设置开发集和测试集](chapter12.md)
 
-[基本错误分析](part2.md)
+[下一部分：基本错误分析](part2.md)
 
 [13. 快速构建你的第一个系统，然后迭代](chapter13.md)
 
