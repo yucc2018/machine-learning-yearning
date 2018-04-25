@@ -1,6 +1,6 @@
 # machine-learning-yearning
 
-Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-14章翻译。
+Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章翻译。
 
 Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章原版。
 
@@ -10,16 +10,6 @@ Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章�
 
 http://www.mlyearning.org/
 
-
-### 翻译版阅读地址：
-
-gitbook阅读体验更好，欢迎来点击下面链接阅读翻译版：
-
-https://yuchenchen.gitbook.io/machine-learning-yearning/
-
-### 翻译版github地址：
-
-https://github.com/yucc2018/machine-learning-yearning
 
 ### Andrew Ng关于本书介绍
 
@@ -43,7 +33,15 @@ https://github.com/yucc2018/machine-learning-yearning
 
 —— 吴恩达（Andrew Ng）
 
+### 翻译版阅读地址：
 
+gitbook阅读体验更好，欢迎来点击下面链接阅读翻译版：
+
+https://yuchenchen.gitbook.io/machine-learning-yearning/
+
+### 翻译版github地址：
+
+https://github.com/yucc2018/machine-learning-yearning
 
 ### 翻译章节：
 
@@ -77,11 +75,11 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [15. 在错误分析中并行评估多个想法](chapter15.md)
 
-[16. 清理贴错标签的开发集和测试集样例](chapter16.md)
+[16. 清理错误标记的开发集和测试集样例](chapter16.md)
+
+[17. 如果你有一个很大的开发集，将它分成两个，而且你只看一个](chapter17.md)
 
 ### 待Andrew更新后翻译章节：
-
-17. If you have a large dev set, split it into two subsets, only one of which you look at
 
 18. How big should the Eyeball and Blackbox dev sets be?
 
