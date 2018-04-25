@@ -1,10 +1,6 @@
 # machine-learning-yearning
 
-Translation of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章翻译。
-
-Draft of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章原版。
-
-本内容是Andrew NG的 My Machine Learning Yearning的翻译，会持续更新。
+本内容是Andrew NG的 My Machine Learning Yearning 1-19章内容的**翻译**及其**原稿**，会持续更新。
 
 ### 本书官网：
 
