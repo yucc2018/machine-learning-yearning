@@ -6,7 +6,7 @@ Draft of &lt;&lt;Machine Learning Yearning&gt;&gt; by Andrew Ng, 1-19章原版�
 
 本内容是Andrew NG的 My Machine Learning Yearning的翻译，会持续更新。
 
-### 本书原版官网：
+### 本书官网：
 
 http://www.mlyearning.org/
 
@@ -53,6 +53,8 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [4. 规模推动机器学习进度](chapter4.md)
 
+[设置开发和测试集](part1.md)
+
 [5. 你的开发集和测试集](chapter5.md)
 
 [6. 你的开发集和测试集应当来自相同的分布](chapter6.md)
@@ -68,6 +70,8 @@ https://github.com/yucc2018/machine-learning-yearning
 [11. 何时更改开发集/测试集和评估指标](chapter11.md)
 
 [12. 小结：设置开发集和测试集](chapter12.md)
+
+[基本错误分析](part2.md)
 
 [13. 快速构建你的第一个系统，然后迭代](chapter13.md)
 
