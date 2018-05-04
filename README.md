@@ -83,9 +83,12 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [19. 基本错误分析](chapter19.md)
 
+[偏差（Bias）和方差（Variance）](part3.md)
+
+[20. 偏差（Bias）和方差（Variance）：错误的两大来源](chapter20.md)
+
 ### 待Andrew更新后翻译章节：
 
-20. Bias and Variance: The two big sources of error
 21. Examples of Bias and Variance
 22. Comparing to the optimal error rate
 23. Addressing Bias and Variance
@@ -132,9 +135,11 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [15-19章下载（2018.04.25版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY02.pdf)
 
+[20-22章下载（2018.05.02版）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY03.pdf)
+
 我自己手动将上面两部分合并，成为1-19章的合集。想下载一个的直接点下面这个链接。
 
-[1-19章合并版（2018.04.25更新）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY_chapter1-19.pdf)
+[1-22章合并版（2018.05.02更新）](https://github.com/yucc2018/machine-learning-yearning/blob/master/Draft%20of%20Machine%20Learning%20Yearning/Ng_MLY_chapter1-22.pdf)
 
 ### 联系方式：
 

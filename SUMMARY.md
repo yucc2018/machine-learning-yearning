@@ -22,4 +22,10 @@
 * [17. 如果你有一个很大的开发集，将它分成两个，而且你只看一个](chapter17.md)
 * [18. 眼球开发集和黑盒开发集应该多大？](chapter18.md)
 * [19. 基本错误分析](chapter19.md)
+* [偏差（Bias）和方差（Variance）](part3.md)
+* [20. 偏差（Bias）和方差（Variance）：错误的两大来源](chapter20.md)
+
+
+
+
 
