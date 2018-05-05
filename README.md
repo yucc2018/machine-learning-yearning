@@ -83,7 +83,7 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [19. 基本错误分析](chapter19.md)
 
-[偏差（Bias）和方差（Variance）](part3.md)
+[下一部分：偏差（Bias）和方差（Variance）](part3.md)
 
 [20. 偏差（Bias）和方差（Variance）：错误的两大来源](chapter20.md)
 
