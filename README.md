@@ -87,10 +87,12 @@ https://github.com/yucc2018/machine-learning-yearning
 
 [20. 偏差（Bias）和方差（Variance）：错误的两大来源](chapter20.md)
 
+[21. 偏差（Bias）和方差（variance）的例子](chapter21.md)
+
+[22. 对比最优错误率](chapter22.md)
+
 ### 待Andrew更新后翻译章节：
 
-21. Examples of Bias and Variance
-22. Comparing to the optimal error rate
 23. Addressing Bias and Variance
 24. Bias vs. Variance tradeoff
 25. Techniques for reducing avoidable bias
