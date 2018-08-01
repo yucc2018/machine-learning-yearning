@@ -1,6 +1,10 @@
+
+
+# 由于有别人翻译好的内容及原文易懂，故本内容不再更新。
+
 # machine-learning-yearning
 
-本内容是Andrew NG的 My Machine Learning Yearning 1-19章内容的**翻译**及其**原稿**，会持续更新。
+本内容是Andrew NG的 My Machine Learning Yearning 1-22章内容的**翻译**及其**原稿**.
 
 ### 本书官网：
 
